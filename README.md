@@ -1,0 +1,1 @@
+# Ubuntu-20.04.3-Focal-Docker-Otomatik-Kurma-Skripti
