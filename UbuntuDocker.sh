@@ -46,8 +46,8 @@ sudo chmod +x /usr/local/bin/docker-compose
 sleep 1
 
 # Docker Kurulum doğrulaması için hello-world konteynerini çalıştıralım.
-docker run hello-world
-sleep 1
+sudo docker run hello-world
+sleep 2
 
 # Git kurulumunu gerçekleştirelim.
 sudo apt -y install git
