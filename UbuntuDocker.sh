@@ -65,6 +65,6 @@ git config --global user.email "Kullanıcı Eposta Adresi"
 
 sleep 1 
 echo -------------------------------------------------------------------------------------
-echo " Kurulum İşlemlerini tamamladım, İyi günler dilerim"
+echo "Kurulum İşlemlerini tamamladım, İyi günler dilerim"
 echo -------------------------------------------------------------------------------------
 sleep 2
