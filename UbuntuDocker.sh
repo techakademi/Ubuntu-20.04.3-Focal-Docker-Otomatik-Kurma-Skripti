@@ -1,7 +1,8 @@
 #!/bin/bash
 # Bu skript ile, Ubuntu işletim sistemine yeni Docker, Docker-Compose ve git'in son sürümün yükleme işlemini gerçekleştirebilirsiniz.
-
-Echo "Merhaba, Ben Ubuntu Sunucusuna Docker, Docker Compos & Git kuracak olan Droid'inim."
+echo -------------------------------------------------------------------------------------
+echo "Merhaba, Ben Ubuntu Sunucusuna Docker, Docker Compos & Git kuracak olan Droid'inim."
+echo -------------------------------------------------------------------------------------
 sleep 2
 
 # Sunucu Version kontrol & görüntüleme
@@ -63,6 +64,7 @@ git config --global user.name "Kullanıcı adı"
 git config --global user.email "hamzagurcan@gmail.com"
 
 sleep 1 
-
-Echo " Kurulum İŞlemlerini tamamladım, İyi günler"
+echo -------------------------------------------------------------------------------------
+echo " Kurulum İŞlemlerini tamamladım, İyi günler"
+echo -------------------------------------------------------------------------------------
 sleep 2
