@@ -30,7 +30,7 @@ sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubun
 sleep 1
 
 # Docker kurulumuna başlayalım.
-sudo apt install docker-ce
+sudo apt -y install docker-ce
 sleep 1
 
 # Docker komutlarını sudo olmadan kullanmak için, mevcut kullanıcıyı docker grubuna ekleyelim.
