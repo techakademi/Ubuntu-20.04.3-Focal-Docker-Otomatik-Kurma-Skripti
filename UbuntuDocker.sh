@@ -61,10 +61,10 @@ sleep 1
 git config --global user.name "Kullanıcı adı"
 
 # Git Kullanıcı mail adresini tanımlayalım.
-git config --global user.email "hamzagurcan@gmail.com"
+git config --global user.email "Kullanıcı Eposta Adresi"
 
 sleep 1 
 echo -------------------------------------------------------------------------------------
-echo " Kurulum İŞlemlerini tamamladım, İyi günler"
+echo " Kurulum İşlemlerini tamamladım, İyi günler dilerim"
 echo -------------------------------------------------------------------------------------
 sleep 2
