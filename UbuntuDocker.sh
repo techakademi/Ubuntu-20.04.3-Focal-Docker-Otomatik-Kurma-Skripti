@@ -62,4 +62,7 @@ git config --global user.name "Kullanıcı adı"
 # Git Kullanıcı mail adresini tanımlayalım.
 git config --global user.email "hamzagurcan@gmail.com"
 
-Echo "
+sleep 1 
+
+Echo " Kurulum İŞlemlerini tamamladım, İyi günler"
+sleep 2
